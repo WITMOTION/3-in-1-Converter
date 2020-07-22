@@ -25,6 +25,10 @@ Google Drive:
 https://drive.google.com/file/d/1NIGTBXi-zaN26oJWw3JvhEpCVb1XKgZK/view?usp=sharing
 
 -----------
+Youtube Channael: 
+https://www.youtube.com/c/WITMOTION
+
+-----------
 After-sale Service& Technical Support: 
 
 If you have queries about the sensors' set-up, software installation, APP, drivers or any other questions, suggestions, please feel free to contact us.
