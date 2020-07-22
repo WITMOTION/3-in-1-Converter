@@ -1,4 +1,4 @@
-# 6-in-1-Converter
+# 3-in-1-Converter
 
 Developed tutorial: providing manual, drivers for Windows 7, 8, 10
 
@@ -19,10 +19,10 @@ Unzip the .zip file and you will have a directory containing the files.
 Document download link:
 
 Github:
-https://github.com/WITMOTION/6-in-1-Converter
+https://github.com/WITMOTION/3-in-1-Converter
 
 Google Drive:
-https://drive.google.com/file/d/1w-ahz9dyX7WzmxAf0xzr98zI5f6P61jk/view?usp=sharing
+https://drive.google.com/file/d/1NIGTBXi-zaN26oJWw3JvhEpCVb1XKgZK/view?usp=sharing
 
 -----------
 After-sale Service& Technical Support: 
