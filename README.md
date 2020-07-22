@@ -1,7 +1,9 @@
-# BWT901CL
-Tutorial including manual, datasheet, APK for Android APP, sample code for MCU integration, etc.
+# 6-in-1-Converter
+
+Developed tutorial: providing manual, drivers for Windows 7, 8, 10
 
 RELEASE NOTES
+
 =============
 WITMOTION Turotial File 
 
@@ -11,22 +13,16 @@ Release date:    2020-07-20
 This package contains all neccessary file for set-up of the sensor. 
 
 Unzip the .zip file and you will have a directory containing the files.
+
 -----------
 
 Document download link:
 
 Github:
-https://github.com/WITMOTION
+https://github.com/WITMOTION/6-in-1-Converter
 
-Google Drive: 
-https://drive.google.com/drive/folders/1I6sBC-8Q3_vtY-GrFDZbWJZJFk7UnNfO
-
------------
-Youtube Channael: 
-https://www.youtube.com/c/WITMOTION
-
-BWT901CL Playlist: 
-https://www.youtube.com/watch?v=W7GpNKMBeqg&list=PL43tdDrVL_VAz6b3HJjr67kCQiqgV9b27
+Google Drive:
+https://drive.google.com/file/d/1w-ahz9dyX7WzmxAf0xzr98zI5f6P61jk/view?usp=sharing
 
 -----------
 After-sale Service& Technical Support: 
